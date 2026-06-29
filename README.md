@@ -1,4 +1,4 @@
-#INSTRUCTIONS TO RUN GUI
+#INSTRUCTIONS TO RUN GUI#
 Download banksim_gui.exe and run on windows device
 
 #MEMBERS
