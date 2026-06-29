@@ -1,0 +1,6 @@
+#INSTRUCTIONS TO RUN GUI
+Download banksim_gui.exe and run on windows device
+
+#MEMBERS
+164643 GITAU MUGURE TRACY
+166370 NAOMI TEKO CHENANGAT
